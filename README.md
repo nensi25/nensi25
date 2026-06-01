@@ -5,7 +5,7 @@
 🤖 Interested in AI, Web Development & Designing New Things
 💻 Learning Programming and Modern Technologies
 🚀 Passionate about Innovation, Creativity & Problem-Solving
-🌱 Exploring New Ideas and Building Projects Every Day
+🌱 Exploring New Ideas and Building Projects Every Day.
 
 ---
 
