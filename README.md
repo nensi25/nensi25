@@ -6,21 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Hackathon+Enthusiast;Always+Learning+Something+New+🚀" />
 
-<p>
-<a href="https://github.com/nensi25">
-<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/nensi25?tab=followers">
-<img src="https://img.shields.io/github/followers/nensi25?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/nensi25">
-<img src="https://img.shields.io/github/stars/nensi25?style=for-the-badge"/>
-</a>
-
-</p>
-
 </div>
 
 ---
@@ -47,8 +32,6 @@
 - Machine Learning
 
 💡 I enjoy solving real-world problems using technology and building impactful AI solutions.
-
-📍 Gujarat, India
 
 ---
 
@@ -78,7 +61,7 @@ React • Node.js • MongoDB • AI
 
 Context-Aware Emotional Intelligence Platform
 
-Features
+### Features
 
 - Mood Detection
 - Stress Prediction
@@ -92,7 +75,7 @@ Features
 
 AI-powered Crime Intelligence Dashboard
 
-Features
+### Features
 
 - Crime Prediction
 - Heat Maps
@@ -115,50 +98,33 @@ Modern responsive developer portfolio showcasing projects and achievements.
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 ![C](https://skillicons.dev/icons?i=c)
-
 ![Java](https://skillicons.dev/icons?i=java)
-
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
----
-
-## Frontend
+### Frontend
 
 ![HTML](https://skillicons.dev/icons?i=html)
-
 ![CSS](https://skillicons.dev/icons?i=css)
-
 ![React](https://skillicons.dev/icons?i=react)
 
----
-
-## Backend
+### Backend
 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
 ![Express](https://skillicons.dev/icons?i=express)
 
----
-
-## Database
+### Database
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
----
-
-## Tools
+### Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
-
-![Github](https://skillicons.dev/icons?i=github)
-
+![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-
 ![Figma](https://skillicons.dev/icons?i=figma)
-
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
@@ -196,18 +162,6 @@ Modern responsive developer portfolio showcasing projects and achievements.
 <img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&row=2&column=4"/>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build 20+ AI Projects
-- ⭐ Reach 500+ Contributions
-- 💼 Get Software Internship
-- ☁ Learn Cloud Computing
-- 🤖 Master AI & Machine Learning
-- 🌍 Contribute to Open Source
-- 🏆 Win National Hackathons
 
 ---
 
@@ -268,6 +222,10 @@ Cloud Computing
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
 
 ## ⭐ Thanks for visiting my profile! ⭐
 
