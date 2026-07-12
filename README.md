@@ -1,51 +1,72 @@
-<h1 align="center">Hi 👋, I'm Nensi Gohel</h1>
-<h3 align="center">🚀 Computer Engineering Student | AI Enthusiast | Full Stack Developer | UI/UX Designer</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%7C+Web+Development+%7C+UI%2FUX;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
+# Hi 👋 I'm Nensi Gohel
+
+### 💻 Computer Engineering Student | 🤖 AI Enthusiast | 🌐 Full Stack Developer | 🎨 UI/UX Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Hackathon+Enthusiast;Always+Learning+Something+New+🚀" />
+
+<p>
+<a href="https://github.com/nensi25">
+<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/nensi25?tab=followers">
+<img src="https://img.shields.io/github/followers/nensi25?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/nensi25">
+<img src="https://img.shields.io/github/stars/nensi25?style=for-the-badge"/>
+</a>
+
 </p>
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
-🎓 **B.Tech Computer Engineering Student** (GTU)
+🎓 B.Tech Computer Engineering Student (GTU)
 
-💻 Passionate about **AI, Full Stack Development & UI/UX**
+🤖 Passionate about Artificial Intelligence
 
-🚀 Building real-world AI applications
+💻 Full Stack Web Developer
+
+🎨 UI/UX Designer
+
+🏆 Hackathon Participant
 
 🌱 Currently Learning
 
 - React.js
 - Node.js
-- MongoDB
 - Express.js
+- MongoDB
 - Cloud Computing
 - Machine Learning
 
-🏆 Hackathon Participant
-
-💡 Love solving real-world problems using technology.
+💡 I enjoy solving real-world problems using technology and building impactful AI solutions.
 
 📍 Gujarat, India
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Featured Projects
 
 ## 🏟 AI Stadium Copilot
 
-AI-powered Smart Stadium Management Platform
+AI-powered Smart Stadium Platform
 
-### Features
+✨ Features
 
-- AI Assistant
+- AI Copilot
 - Crowd Prediction
 - Smart Parking
-- Weather Analysis
+- Weather Monitoring
 - Emergency Alerts
-- Live Analytics
+- Live Dashboard
+- Analytics
 
 **Tech Stack**
 
@@ -55,167 +76,162 @@ React • Node.js • MongoDB • AI
 
 ## 😊 EmotiChain
 
-AI-Based Emotion Intelligence Platform
+Context-Aware Emotional Intelligence Platform
 
-### Features
+Features
 
-- Emotion Detection
-- Mood Analysis
+- Mood Detection
 - Stress Prediction
-- AI Dashboard
-- Analytics
+- AI Analytics
+- Dashboard
+- Emotion Tracking
 
 ---
 
 ## 🚓 NETRA Police Intelligence
 
-AI-powered crime intelligence dashboard
+AI-powered Crime Intelligence Dashboard
 
-### Features
+Features
 
 - Crime Prediction
 - Heat Maps
-- Incident Analytics
 - AI Insights
+- Analytics
 
 ---
 
 ## ♻ AI Waste Classifier
 
-AI-powered waste segregation system.
+AI-powered Smart Waste Classification System
 
 ---
 
 ## 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, skills and achievements.
+Modern responsive developer portfolio showcasing projects and achievements.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://skillicons.dev/icons?i=c)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
-### Backend
+## Frontend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![CSS](https://skillicons.dev/icons?i=css)
 
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://skillicons.dev/icons?i=react)
 
 ---
 
-### Tools
+## Backend
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Express](https://skillicons.dev/icons?i=express)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+---
 
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+## Database
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+---
+
+## Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+
+![Github](https://skillicons.dev/icons?i=github)
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+![Figma](https://skillicons.dev/icons?i=figma)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nensi25&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nensi25&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nensi25&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensi25&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensi25&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=nensi25&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Nensi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=react-dark)](https://github.com/nensi25)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=tokyo-night)](https://github.com/nensi25)
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&row=2&column=4"/>
+
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Build 20+ Projects
-
-✅ Contribute to Open Source
-
-✅ Crack Top Internship
-
-✅ Learn Cloud & AI
-
-✅ Reach 500+ GitHub Contributions
-
-✅ Participate in National Hackathons
+- 🚀 Build 20+ AI Projects
+- ⭐ Reach 500+ Contributions
+- 💼 Get Software Internship
+- ☁ Learn Cloud Computing
+- 🤖 Master AI & Machine Learning
+- 🌍 Contribute to Open Source
+- 🏆 Win National Hackathons
 
 ---
 
 # 📚 Currently Learning
 
-- React.js
-- Node.js
-- MongoDB
-- AI
-- Machine Learning
-- Cloud Computing
+```text
+React.js
+Node.js
+MongoDB
+Express.js
+Artificial Intelligence
+Machine Learning
+Cloud Computing
+```
 
 ---
 
-# 💼 Open For
+# 💼 Looking For
 
-✅ Internship
-
-✅ Freelance Projects
+✅ Internship Opportunities
 
 ✅ Open Source Collaboration
+
+✅ Freelance Projects
 
 ✅ Hackathons
 
@@ -223,36 +239,38 @@ Personal portfolio showcasing projects, skills and achievements.
 
 # ⚡ Fun Fact
 
-> "Every expert was once a beginner."
+> Every expert was once a beginner.
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email
+<p align="left">
 
-nensigohel25@gmail.com
+<a href="mailto:nensigohel25@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🔗 LinkedIn
+<a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-https://www.linkedin.com/in/nensi-gohel-765935328/
+<a href="https://nensi-portfolio-25a01.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-🌐 Portfolio
-
-https://nensi-portfolio-25a01.netlify.app/
-
-GitHub
-
-https://github.com/nensi25
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=flat"/>
+<a href="https://github.com/nensi25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-<h3 align="center">⭐ If you like my projects, don't forget to star them! ⭐</h3>
+<div align="center">
+
+## ⭐ Thanks for visiting my profile! ⭐
+
+*"Building innovative solutions with AI and modern web technologies."*
+
+</div>
