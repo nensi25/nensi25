@@ -1,10 +1,31 @@
 <div align="center">
 
-# Hi 👋 I'm Nensi Gohel
+# 👋 Hi, I'm Nensi Gohel
 
-### 💻 Computer Engineering Student | 🤖 AI Enthusiast | 🌐 Full Stack Developer | 🎨 UI/UX Designer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Hackathon+Enthusiast;Always+Learning+Something+New+🚀" />
+<p>
+🚀 Building AI-powered applications • 💻 Full Stack Developer • 🎨 UI/UX Designer
+</p>
+
+<p>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+</a>
+
+</p>
 
 </div>
 
@@ -14,34 +35,99 @@
 
 🎓 B.Tech Computer Engineering Student (GTU)
 
-🤖 Passionate about Artificial Intelligence
+💡 Passionate about Artificial Intelligence and Full Stack Development.
 
-💻 Full Stack Web Developer
-
-🎨 UI/UX Designer
+🤖 Building AI-powered solutions to solve real-world problems.
 
 🏆 Hackathon Participant
 
-🌱 Currently Learning
+🎨 UI/UX Designer
+
+☁️ Learning Cloud Computing & Machine Learning
+
+🌱 Currently learning
 
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- Cloud Computing
+- Python
+- Google Cloud
 - Machine Learning
-
-💡 I enjoy solving real-world problems using technology and building impactful AI solutions.
 
 ---
 
-# 🏆 Featured Projects
+# 🔥 Current Focus
 
-## 🏟 AI Stadium Copilot
+- 🤖 AI Stadium Copilot
+- 😊 EmotiChain
+- 🚔 NETRA Police Intelligence
+- 🌍 AI Waste Classification
+- ☁️ Google Cloud AI
 
-AI-powered Smart Stadium Platform
+---
 
-✨ Features
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,js,python"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏟️ AI Stadium Copilot
+
+AI-powered Smart Stadium Management Platform.
+
+### Features
 
 - AI Copilot
 - Crowd Prediction
@@ -59,7 +145,7 @@ React • Node.js • MongoDB • AI
 
 ## 😊 EmotiChain
 
-Context-Aware Emotional Intelligence Platform
+Context-Aware Emotional Intelligence Platform.
 
 ### Features
 
@@ -71,9 +157,9 @@ Context-Aware Emotional Intelligence Platform
 
 ---
 
-## 🚓 NETRA Police Intelligence
+## 🚔 NETRA Police Intelligence
 
-AI-powered Crime Intelligence Dashboard
+AI-powered Crime Intelligence Dashboard.
 
 ### Features
 
@@ -84,9 +170,9 @@ AI-powered Crime Intelligence Dashboard
 
 ---
 
-## ♻ AI Waste Classifier
+## ♻️ AI Waste Classifier
 
-AI-powered Smart Waste Classification System
+AI-powered Smart Waste Classification System.
 
 ---
 
@@ -96,125 +182,97 @@ Modern responsive developer portfolio showcasing projects and achievements.
 
 ---
 
-# 💻 Tech Stack
+# 🏆 Achievements
 
-### Languages
+🏅 Google Cloud Skill Badges
 
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+🏅 Microsoft Workshop Participant
 
-### Frontend
+🏅 Hackathon Participant
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
+🏅 AI Project Developer
 
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+🏅 Open Source Learner
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nensi25&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensi25&layout=compact&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-<div align="center">
+</p>
 
-<img src="https://streak-stats.demolab.com?user=nensi25&theme=tokyonight"/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=tokyo-night)](https://github.com/nensi25)
+</p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 📊 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-```text
-React.js
-Node.js
-MongoDB
-Express.js
-Artificial Intelligence
-Machine Learning
-Cloud Computing
-```
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Full Stack Development
+- UI/UX Design
+- Data Structures & Algorithms
 
 ---
 
-# 💼 Looking For
+# 🤝 Let's Connect
 
-✅ Internship Opportunities
+<p align="center">
 
-✅ Open Source Collaboration
-
-✅ Freelance Projects
-
-✅ Hackathons
-
----
-
-# ⚡ Fun Fact
-
-> Every expert was once a beginner.
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
 </a>
 
-<a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/nensi25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -223,12 +281,10 @@ Cloud Computing
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile!
 
-<br><br>
+*"Code. Learn. Build. Innovate."*
 
-## ⭐ Thanks for visiting my profile! ⭐
-
-*"Building innovative solutions with AI and modern web technologies."*
+If you like my work, don't forget to ⭐ my repositories!
 
 </div>
