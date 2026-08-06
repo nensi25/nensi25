@@ -1,290 +1,131 @@
-<div align="center">
+<p align="center">
 
-# 👋 Hi, I'm Nensi Gohel
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<p>
-🚀 Building AI-powered applications • 💻 Full Stack Developer • 🎨 UI/UX Designer
-</p>
-
-<p>
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer;Hackathon+Participant;Always+Learning+%F0%9F%9A%80" />{=html}
 
 </p>
 
-</div>
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/nensi-gohel-765935328/">{=html}<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}</a>{=html}<a href="https://nensi-portfolio-25a01.netlify.app/">{=html}<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>{=html}</a>{=html}<a href="https://ai-explore-academy-0309-2501.netlify.app/">{=html}<img src="https://img.shields.io/badge/Hackathon_Project-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>{=html}</a>{=html}<a href="mailto:nensigohel25@gmail.com">{=html}<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}</a>{=html}
 
-# 🚀 About Me
+</p>
+
+🚀 About Me
 
 🎓 B.Tech Computer Engineering Student (GTU)
 
-💡 Passionate about Artificial Intelligence and Full Stack Development.
-
-🤖 Building AI-powered solutions to solve real-world problems.
-
-🏆 Hackathon Participant
+🤖 Passionate about Artificial Intelligence & Full Stack Development
 
 🎨 UI/UX Designer
 
-☁️ Learning Cloud Computing & Machine Learning
+🏆 Hackathon Participant
 
-🌱 Currently learning
+☁️ Learning Google Cloud, Machine Learning & React Ecosystem
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Python
-- Google Cloud
-- Machine Learning
+🔭 Featured Projects
 
----
+Project                       Description
 
-# 🔥 Current Focus
+🏟️ AI Stadium Copilot         AI-powered smart stadium platform
 
-- 🤖 AI Stadium Copilot
-- 😊 EmotiChain
-- 🚔 NETRA Police Intelligence
-- 🌍 AI Waste Classification
-- ☁️ Google Cloud AI
+😊 EmotiChain                 Emotion detection & analytics
 
----
+🚔 NETRA                      AI Police Intelligence Dashboard
 
-# 💻 Tech Stack
+♻️ AI Waste Classifier        Smart waste classification
 
-## Languages
+🌐 Portfolio                  https://nensi-portfolio-25a01.netlify.app/
+
+💡 AI Explore Academy         https://ai-explore-academy-0309-2501.netlify.app/
+
+💻 Tech Stack
+
+Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,js,python"/>
+<img src="https://skillicons.dev/icons?i=c,js,python"/>{=html}
 
 </p>
 
----
-
-## Frontend
+Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>{=html}
 
 </p>
 
----
-
-## Backend
+Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>{=html}
 
 </p>
 
----
-
-## Database
+Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>{=html}
 
 </p>
 
----
-
-## Tools
+Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>{=html}
 
 </p>
 
----
-
-# 🌟 Featured Projects
-
-## 🏟️ AI Stadium Copilot
-
-AI-powered Smart Stadium Management Platform.
-
-### Features
-
-- AI Copilot
-- Crowd Prediction
-- Smart Parking
-- Weather Monitoring
-- Emergency Alerts
-- Live Dashboard
-- Analytics
-
-**Tech Stack**
-
-React • Node.js • MongoDB • AI
-
----
-
-## 😊 EmotiChain
-
-Context-Aware Emotional Intelligence Platform.
-
-### Features
-
-- Mood Detection
-- Stress Prediction
-- AI Analytics
-- Dashboard
-- Emotion Tracking
-
----
-
-## 🚔 NETRA Police Intelligence
-
-AI-powered Crime Intelligence Dashboard.
-
-### Features
-
-- Crime Prediction
-- Heat Maps
-- AI Insights
-- Analytics
-
----
-
-## ♻️ AI Waste Classifier
-
-AI-powered Smart Waste Classification System.
-
----
-
-## 🌐 Portfolio Website
-
-Modern responsive developer portfolio showcasing projects and achievements.
-
----
-
-# 🏆 Achievements
-
-🏅 Google Cloud Skill Badges
-
-🏅 Microsoft Workshop Participant
-
-🏅 Hackathon Participant
-
-🏅 AI Project Developer
-
-🏅 Open Source Learner
-
----
-
-# 📈 GitHub Statistics
+📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nensi25&show_icons=true&theme=tokyonight"/>{=html}
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nensi25&theme=tokyonight"/>{=html}
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensi25&layout=compact&theme=tokyonight"/>{=html}
 
 </p>
 
----
-
-# 📊 Contribution Graph
+📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=tokyo-night"/>{=html}
 
 </p>
 
----
-
-# 🐍 Contribution Snake
+🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&column=4"/>{=html}
 
 </p>
 
----
+🐍 Snake animation requires a GitHub Actions workflow and cannotappear until you configure it.
 
-# 🏆 GitHub Trophies
+📫 Connect
 
-<p align="center">
+📧 nensigohel25@gmail.com
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+💼 https://www.linkedin.com/in/nensi-gohel-765935328/
 
-</p>
+🌐 https://nensi-portfolio-25a01.netlify.app/
 
----
+🚀 https://ai-explore-academy-0309-2501.netlify.app/
 
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Full Stack Development
-- UI/UX Design
-- Data Structures & Algorithms
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Innovate."*
-
-If you like my work, don't forget to ⭐ my repositories!
-
-</div>
+⭐ Thanks for visiting my profile!
