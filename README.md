@@ -186,7 +186,7 @@ AI-powered Smart Waste Classification System
 
 </p>
 
----# 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
