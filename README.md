@@ -1,401 +1,187 @@
-<div align="center">
+<!-- ======================= HEADER ======================= -->
 
-# 👋 Hi, I'm Nensi Gohel
+<h1 align="center">👋 Hi, I'm Nensi Gohel</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer;Hackathon+Participant;Always+Learning+New+Technologies" />
-
-### 🚀 Building AI-powered solutions | 💻 Full Stack Developer | 🎨 UI/UX Designer
+<h3 align="center">
+💻 Computer Engineering Student | 🤖 AI Developer | 🌐 Full-Stack Developer | 🎨 UI/UX Designer
+</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://ai-explore-academy-0309-2501.netlify.app/">
-<img src="https://img.shields.io/badge/Hackathon_Project-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nensi-portfolio-25a01.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:nensigohel25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nensi25&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/nensi25?label=Followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/nensi25?affiliations=OWNER&style=flat&color=yellow" />
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-🎓 B.Tech Computer Engineering Student (GTU)
-
-🤖 Passionate about Artificial Intelligence and Full Stack Development.
-
-💡 I enjoy building real-world AI applications, modern web platforms, and intuitive user interfaces.
-
-🏆 Active Hackathon Participant
-
-🎨 UI/UX Designer
-
-☁️ Exploring Google Cloud & Machine Learning
-
----
-
-# 🌱 Currently Working On
-
-- 🏟️ AI Stadium Copilot
-- 😊 EmotiChain
-- 🚔 NETRA Police Intelligence
-- ♻️ AI Waste Classifier
-- ☁️ Google Cloud AI Projects
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,js,python"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  🚀 Building practical technology for real-world problems
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 👩‍💻 About Me
+
+🎓 B.Tech Computer Engineering Student at Gujarat Technological University (GTU)
+
+🤖 Passionate about Artificial Intelligence, Full-Stack Development and emerging technologies.
+
+💡 I enjoy transforming ideas into practical digital products.
+
+🎨 Interested in UI/UX Design and creating simple, intuitive user experiences.
+
+🏆 Actively participating in hackathons, innovation challenges and technical competitions.
+
+☁️ Exploring Google Cloud, AI/ML and modern developer tools.
+
+🛰️ Interested in Space Technology, AI and technology-driven innovation.
+
+---
+
+## 🚀 What I'm Currently Building
+
+| Project | Focus |
+|---|---|
+| 🏟️ **AI Stadium Copilot** | AI + Smart Stadium |
+| 😊 **EmotiChain** | Emotional Intelligence + AI |
+| 🌍 **NETRA** | Environmental Intelligence |
+| ♻️ **AI Waste Classifier** | AI + Waste Management |
+| ☁️ **Google Cloud AI Projects** | Cloud + AI |
+
+---
+
+# ⭐ Featured Projects
 
 ## 🏟️ AI Stadium Copilot
 
-AI-powered Smart Stadium Platform
+> **AI-Powered Smart Stadium Platform**
 
-### Features
+An intelligent stadium management platform designed to improve safety, crowd management and the overall stadium experience.
 
-- AI Copilot
-- Smart Parking
-- Crowd Prediction
-- Weather Monitoring
-- Emergency Alerts
-- Live Dashboard
-- Analytics
+### ✨ Features
 
-**Tech Stack:** React • Node.js • MongoDB • AI
+- 🤖 AI Copilot
+- 🚗 Smart Parking
+- 👥 Crowd Prediction
+- 🌦️ Weather Monitoring
+- 🚨 Emergency Alerts
+- 📊 Live Dashboard
+- 📈 Stadium Analytics
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `AI`
 
 ---
 
 ## 😊 EmotiChain
 
-Context-Aware Emotional Intelligence Platform
+> **Context-Aware Cognitive Emotional Intelligence Platform**
 
-### Features
+An AI-powered platform designed to understand emotional patterns using multiple signals and provide meaningful insights.
 
-- Mood Detection
-- Stress Prediction
-- AI Analytics
-- Dashboard
-- Emotion Tracking
+### ✨ Features
+
+- 💬 Text Sentiment Analysis
+- 😊 Emotion Detection
+- 📊 Emotional Energy Index
+- 🧠 Stress Probability Analysis
+- 📈 Mood Analytics
+- 📅 Weekly / Monthly Reports
+- 🔐 Secure Authentication
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `MongoDB` `JWT` `AI`
 
 ---
 
-## 🚔 NETRA Police Intelligence
+## 🌍 NETRA Pollution Intelligence
 
-AI-powered Crime Intelligence Dashboard
+> **AI-powered environmental intelligence concept**
 
-### Features
+A technology-driven solution focused on understanding environmental conditions and providing intelligent insights using AI.
 
-- Crime Prediction
-- Heat Maps
-- AI Insights
-- Dashboard Analytics
+### 🎯 Focus
+
+- 🌫️ Pollution Monitoring
+- 🤖 AI Analysis
+- 📊 Data Visualization
+- 🌍 Environmental Awareness
+- 📈 Intelligent Insights
 
 ---
 
 ## ♻️ AI Waste Classifier
 
-AI-powered Smart Waste Classification System
+> **AI-powered waste classification concept**
+
+A project focused on using Artificial Intelligence to classify waste and support smarter waste-management systems.
+
+### 🎯 Focus
+
+- ♻️ Waste Classification
+- 🤖 AI / ML
+- 📷 Image-based Detection
+- 🌱 Environmental Sustainability
 
 ---
 
-## 🌐 Portfolio Website
+# 💻 Tech Stack
 
-🔗 https://nensi-portfolio-25a01.netlify.app/
+### 👨‍💻 Programming Languages
 
----
-
-## 🚀 Hackathon Project
-
-🔗 https://ai-explore-academy-0309-2501.netlify.app/
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nensi25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensi25&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=c,js,python" />
 </p>
 
-<p align="center">
+### 🌐 Frontend
 
-<img src="https://streak-stats.demolab.com?user=nensi25&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
----
+### ⚙️ Backend
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=tokyo-night&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-# 🐍 Contribution Snake
+### 🗄️ Database
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake.svg">
-  </picture>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
----
+### ☁️ Cloud & AI
 
-# 🏆 GitHub Trophies
+<p>
+<img src="https://skillicons.dev/icons?i=gcp" />
+</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&no-frame=true&row=2&column=4"/>
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 </p>
 
 ---
 
-# 🚀 Featured Project Cards
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🏟️ AI Stadium Copilot
-
-AI-powered Smart Stadium Platform
-
-**✨ Features**
-
-- 🤖 AI Copilot
-- 🚗 Smart Parking
-- 👥 Crowd Prediction
-- 🌦 Weather Monitoring
-- 🚨 Emergency Alerts
-- 📊 Live Dashboard
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-
-<td width="50%">
-
-### 😊 EmotiChain
-
-Context-Aware Emotional Intelligence Platform
-
-**✨ Features**
-
-- 😊 Mood Detection
-- 😟 Stress Prediction
-- 📈 AI Analytics
-- 📊 Dashboard
-- 📅 Emotion History
-
-**Tech Stack**
-
-`React` `Express` `MongoDB` `AI`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🚔 NETRA
-
-AI Police Intelligence Dashboard
-
-**✨ Features**
-
-- 🚓 Crime Prediction
-- 🗺 Heat Maps
-- 📈 AI Analytics
-- 📊 Dashboard
-
-**Tech Stack**
-
-`Python` `Flask` `Machine Learning`
-
-</td>
-
-<td width="50%">
-
-### ♻️ AI Waste Classifier
-
-AI-powered Smart Waste Detection
-
-**✨ Features**
-
-- ♻️ Waste Detection
-- 🤖 AI Classification
-- 📷 Image Recognition
-- 📊 Dashboard
-
-**Tech Stack**
-
-`Python` `TensorFlow`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Current Learning
+# 🧠 Areas I'm Exploring
 
 ```text
-✅ Artificial Intelligence
-████████████████████░░ 90%
-
-✅ React.js
-██████████████████░░░░ 85%
-
-✅ Node.js
-█████████████████░░░░░ 82%
-
-✅ Express.js
-████████████████░░░░░░ 80%
-
-✅ MongoDB
-███████████████░░░░░░░ 78%
-
-✅ Google Cloud
-██████████████░░░░░░░░ 75%
-
-✅ Machine Learning
-█████████████░░░░░░░░░ 70%
-```
-
----
-
-# 🏅 Achievements
-
-🏆 Google Cloud Skill Badges
-
-🏆 AI & Cloud Learning
-
-🏆 Microsoft Workshop Participant
-
-🏆 Hackathon Participant
-
-🏆 Full Stack Developer
-
-🏆 UI/UX Designer
-
----
-
-# 📜 Certifications
-
-- ☁️ Google Cloud Skills Boost
-- 🤖 Artificial Intelligence
-- 💻 Full Stack Development
-- 🎨 UI/UX Design
-- 🚀 Hackathon Projects
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://ai-explore-academy-0309-2501.netlify.app/">
-<img src="https://img.shields.io/badge/Hackathon_Project-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Turning ideas into intelligent solutions through code, creativity, and continuous learning."**
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my GitHub Profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-### 🚀 Happy Coding!
-
-If you like my work, consider ⭐ starring my repositories.
-
-</div>
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Full-Stack Development
+        ↓
+Cloud Computing
+        ↓
+UI/UX Design
+        ↓
+Real-World Product Development
