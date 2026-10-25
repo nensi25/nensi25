@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=NENSI%20GOHEL&fontSize=60&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:0891B2&stroke=38BDF8&strokeWidth=1&animation=fadeIn&desc=AI%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20UI%2FUX&descSize=16&descAlignY=70" width="100%" alt="Nensi Gohel profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=NENSI%20GOHEL&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Nensi Gohel profile banner"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-Powered+Applications;Full+Stack+Web+Developer;Creative+UI%2FUX+Designer;Turning+Ideas+Into+Reality" alt="Animated introduction"/>
+
+<br/><br/>
+
 <a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-Powered+Applications;Full+Stack+Web+Developer;Creative+UI%2FUX+Designer;Turning+Ideas+Into+Reality" alt="Animated introduction"/>
-
-<br/>
-
-**Curious mind. Creative thinking. Code with purpose.**
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=nensi25&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/nensi25?style=for-the-badge&color=0891B2&label=FOLLOWERS" alt="GitHub followers"/>
+
+<br/><br/>
+
+*Curious mind. Creative thinking. Code with purpose.*
 
 </div>
 
@@ -303,7 +303,7 @@ Computer vision concepts for smart waste classification.
 ## 📚 Currently Exploring
 
 | Technology | Learning Focus |
-|:---|:---|
+|---|---|
 | 🤖 Artificial Intelligence | AI-powered applications and intelligent assistants |
 | ⚛️ React | Interactive frontend development |
 | 🟢 Node.js & Express | Backend development and API integration |
