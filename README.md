@@ -1,27 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=NENSI%20GOHEL&fontSize=60&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:0891B2&stroke=38BDF8&strokeWidth=1&animation=fadeIn&desc=AI%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20UI%2FUX&descSize=16&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=NENSI%20GOHEL&fontSize=60&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:0891B2&stroke=38BDF8&strokeWidth=1&animation=fadeIn&desc=AI%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20UI%2FUX&descSize=16&descAlignY=70" width="100%" alt="Nensi Gohel profile banner"/>
+
+<br/>
 
 <a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-Powered+Applications;Full+Stack+Web+Developer;Creative+UI%2FUX+Designer;Turning+Ideas+Into+Reality" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+AI-Powered+Applications;Full+Stack+Web+Developer;Creative+UI%2FUX+Designer;Turning+Ideas+Into+Reality" alt="Animated introduction"/>
 
 <br/>
 
-*Curious mind. Creative thinking. Code with purpose.*
+**Curious mind. Creative thinking. Code with purpose.**
 
-<img src="https://komarev.com/ghpvc/?username=nensi25&style=for-the-badge&color=312E81&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/nensi25?style=for-the-badge&color=0891B2&label=FOLLOWERS"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nensi25&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/nensi25?style=for-the-badge&color=0891B2&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
@@ -40,7 +44,7 @@ I combine **software development, artificial intelligence, and creative design**
 - 🚀 Participating in hackathons and collaborative projects.
 - ☁️ Exploring Google Cloud, machine learning, and emerging technologies.
 
-**My goal:** Build impactful products at the intersection of AI, engineering, and design.
+> **My goal:** Build impactful products at the intersection of AI, engineering, and design.
 
 ---
 
@@ -56,12 +60,12 @@ I combine **software development, artificial intelligence, and creative design**
 
 An intelligent stadium platform designed to make stadium operations smarter.
 
-- AI-powered assistance
-- Smart parking concepts
-- Crowd prediction
-- Weather monitoring
-- Emergency alerts
-- Analytics dashboard
+- 🤖 AI-powered assistance
+- 🚗 Smart parking concepts
+- 👥 Crowd prediction
+- 🌦️ Weather monitoring
+- 🚨 Emergency alerts
+- 📊 Analytics dashboard
 
 </td>
 <td width="50%" valign="top">
@@ -70,11 +74,11 @@ An intelligent stadium platform designed to make stadium operations smarter.
 
 A context-aware emotional intelligence platform focused on mood tracking and insights.
 
-- Mood tracking
-- Emotion analytics
-- Mood classification
-- Personalized insights
-- Historical mood trends
+- 😊 Mood tracking
+- 📈 Emotion analytics
+- 🧩 Mood classification
+- 💡 Personalized insights
+- 📅 Historical mood trends
 
 </td>
 </tr>
@@ -85,10 +89,10 @@ A context-aware emotional intelligence platform focused on mood tracking and ins
 
 An AI-oriented crime intelligence dashboard concept.
 
-- Crime data visualization
-- Geographic heat maps
-- Predictive analytics concepts
-- Intelligence dashboard
+- 📊 Crime data visualization
+- 🗺️ Geographic heat maps
+- 🔍 Predictive analytics concepts
+- 📈 Intelligence dashboard
 
 </td>
 <td width="50%" valign="top">
@@ -97,10 +101,10 @@ An AI-oriented crime intelligence dashboard concept.
 
 An intelligent waste classification concept exploring computer vision.
 
-- Image-based classification
-- Waste category detection
-- AI-assisted identification
-- Smart waste management
+- 📷 Image-based classification
+- ♻️ Waste category detection
+- 🤖 AI-assisted identification
+- 🌱 Smart waste management
 
 </td>
 </tr>
@@ -114,31 +118,33 @@ An intelligent waste classification concept exploring computer vision.
 
 <div align="center">
 
-### Languages
+### 👩🏻‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,javascript&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=c,python,javascript&theme=dark" alt="C, Python and JavaScript"/>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL"/>
 
-### Tools & Design
+### 🔧 Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark" alt="Developer and design tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark" alt="Git, GitHub, VS Code, Figma and Photoshop"/>
 
-<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Intelligent%20Applications-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Innovation-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Artificial Intelligence"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -150,6 +156,15 @@ An intelligent waste classification concept exploring computer vision.
 
 Smart stadium operations and visitor assistance.
 
+**Key Features**
+- AI copilot
+- Smart parking
+- Crowd prediction
+- Weather monitoring
+- Emergency alerts
+
+**Tech Stack**
+
 `React` `Node.js` `Express` `MongoDB`
 
 </td>
@@ -158,6 +173,15 @@ Smart stadium operations and visitor assistance.
 <h3>🧠 EmotiChain</h3>
 
 Emotion tracking and context-aware mood analytics.
+
+**Key Features**
+- Mood tracking
+- Emotion analytics
+- Mood classification
+- Personalized insights
+- Emotion history
+
+**Tech Stack**
 
 `React` `Node.js` `MongoDB` `AI`
 
@@ -170,6 +194,14 @@ Emotion tracking and context-aware mood analytics.
 
 Crime intelligence visualization and predictive analytics concepts.
 
+**Key Features**
+- Crime data visualization
+- Geographic heat maps
+- AI-assisted insights
+- Analytics dashboard
+
+**Tech Stack**
+
 `Python` `Flask` `Machine Learning`
 
 </td>
@@ -178,6 +210,14 @@ Crime intelligence visualization and predictive analytics concepts.
 <h3>♻️ AI Waste Classifier</h3>
 
 Computer vision concepts for smart waste classification.
+
+**Key Features**
+- Image recognition
+- Waste classification
+- AI-assisted identification
+- Smart waste management
+
+**Tech Stack**
 
 `Python` `TensorFlow`
 
@@ -188,15 +228,15 @@ Computer vision concepts for smart waste classification.
 ### 🌐 Explore My Work
 
 <a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/Explore-My%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore-My%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
 </a>
 
 <a href="https://ai-explore-academy-0309-2501.netlify.app/">
-<img src="https://img.shields.io/badge/Explore-Hackathon%20Project-F97316?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore-Hackathon%20Project-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hackathon project"/>
 </a>
 
 <a href="https://github.com/nensi25">
-<img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
 </a>
 
 </div>
@@ -219,27 +259,50 @@ Computer vision concepts for smart waste classification.
 
 ---
 
-## 🐍 Contribution Journey
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensi25&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## 🏆 Learning & Achievements
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/nensi25/nensi25/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 
 </div>
 
-### 📚 Currently Exploring
+---
 
-| Area | Focus |
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nensi25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 📚 Currently Exploring
+
+| Technology | Learning Focus |
 |:---|:---|
 | 🤖 Artificial Intelligence | AI-powered applications and intelligent assistants |
 | ⚛️ React | Interactive frontend development |
@@ -248,13 +311,69 @@ Computer vision concepts for smart waste classification.
 | ☁️ Google Cloud | Cloud technologies and AI services |
 | 🧠 Machine Learning | Predictive models and practical AI applications |
 
-### 🎯 My Development Philosophy
+---
 
-- **Build:** Turn ideas into working prototypes.
-- **Learn:** Explore technologies through practical projects.
-- **Improve:** Refine functionality, usability, and code quality.
-- **Collaborate:** Learn from teams, competitions, and feedback.
-- **Innovate:** Look for meaningful ways to apply AI.
+## 🎯 My Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 💡
+**Build**
+
+Turn ideas into working prototypes.
+
+</td>
+<td align="center" width="20%">
+
+### 📚
+**Learn**
+
+Explore through practical projects.
+
+</td>
+<td align="center" width="20%">
+
+### 🛠️
+**Improve**
+
+Refine usability and code quality.
+
+</td>
+<td align="center" width="20%">
+
+### 🤝
+**Collaborate**
+
+Learn through teamwork and feedback.
+
+</td>
+<td align="center" width="20%">
+
+### 🚀
+**Innovate**
+
+Create meaningful solutions.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+- ☁️ Google Cloud Skills Boost learning and skill badges
+- 🤖 Artificial intelligence and cloud technology learning
+- 💻 Full-stack development projects
+- 🎨 UI/UX design practice
+- 🚀 Hackathon participation
+- 🏆 Microsoft workshop participation
 
 ---
 
@@ -262,18 +381,20 @@ Computer vision concepts for smart waste classification.
 
 <div align="center">
 
-I'm always interested in learning, collaborating on innovative projects, and exploring opportunities in software development and AI.
+I'm always excited to learn, collaborate on innovative projects, and explore opportunities in software development, artificial intelligence, and UI/UX design.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/nensi-gohel-765935328/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://nensi-portfolio-25a01.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
 </a>
 
 <a href="mailto:nensigohel25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
 </a>
 
 <br/><br/>
@@ -284,8 +405,16 @@ I'm always interested in learning, collaborating on innovative projects, and exp
 
 <br/>
 
-**Thanks for visiting my profile! If something inspires you, explore my repositories and let's build something meaningful.** ✨
+**Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=120&section=footer" width="100%"/>
+If something inspires you, explore my repositories and let's build something meaningful. ✨
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=120&section=footer" width="100%" alt="Decorative footer"/>
+
+### 🚀 Happy Coding!
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
